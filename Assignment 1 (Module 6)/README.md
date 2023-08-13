@@ -1,4 +1,4 @@
-# vue_login
+# Assignment 6 (Login, Registration, Welcome Page using LocalStorage)
 
 This template should help get you started developing with Vue 3 in Vite.
 
