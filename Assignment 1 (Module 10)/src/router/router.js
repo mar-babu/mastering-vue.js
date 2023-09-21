@@ -11,7 +11,8 @@ const routes = [
     {
         path: '/product/:id', components: {
             default: Product
-        }
+        },
+        name: 'product'
     }
 
 ]
